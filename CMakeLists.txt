@@ -53,7 +53,7 @@ add_message_files(
 # Generate services in the 'srv' folder
 add_service_files(
   FILES
-  initialize_state.srv
+  list_state_variables.srv
 )
 
 ## Generate actions in the 'action' folder
