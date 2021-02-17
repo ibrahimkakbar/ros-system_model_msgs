@@ -1,4 +1,0 @@
-# Lists the name of each variable in the state.
-
----
-string[] state_variables    # Lists the name of each variable in the model's state.
